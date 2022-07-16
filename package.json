@@ -9,6 +9,7 @@
   "author": "Gene Tigner",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/rest": "^0.5.0",
     "discord.js": "^13.8.1"
   }
 }
