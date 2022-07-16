@@ -1,0 +1,14 @@
+{
+  "name": "where-to-vote-bot",
+  "version": "1.0.0",
+  "description": "texas voting listing dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gene Tigner",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
