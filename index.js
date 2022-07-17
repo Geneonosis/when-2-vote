@@ -82,11 +82,11 @@ client.on("interactionCreate", async (interaction) => {
     });
   }
   if (commandName === "events") {
-    await eventsParser(events, interaction);
+    await eventsParser(events, interaction, false);
   }
   if (commandName === "voter-registration-deadline") {
     await interaction.reply({
-      content: `**The voter registration deadline for the Nov 8, 2022 Election is Oct 11, 2022.**`,
+      content: `**The voter registration deadline for the Nov 8, 2022 Election is __Oct 11, 2022__.**`,
       ephemeral: true,
     });
   }
@@ -143,7 +143,7 @@ client.on("interactionCreate", async (interaction) => {
       return;
     }
     //spit out the coresponding data
-    await eventsParser(filteredEvents, interaction);
+    await eventsParser(filteredEvents, interaction, true);
   }
 });
 
@@ -152,11 +152,16 @@ client.on("interactionCreate", async (interaction) => {
  * @param {*} events - the list of events to parse
  * @param {*} interaction - the interaction to reply back to discord
  */
-async function eventsParser(events, interaction) {
+async function eventsParser(events, interaction, verbose) {
   let str = "";
 
   events.forEach((event) => {
     str += ` - **${event.date} :** \n\t ${event.description}\n`;
+    if (!verbose) return;
+    if (event.notes.length > 0) str += "\t notes: \n";
+    event.notes.forEach((note) => {
+      str += `\t\t - ${note}\n`;
+    });
   });
   await interaction.reply({
     content: `list of events and their dates: \n${str}\n for more information please visit the following link: https://tinyurl.com/mr3r4rt6`,
