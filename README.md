@@ -2,7 +2,7 @@
 discord bot to inform people when to vote in texas.
 
 # setup files
-crease a `secrets.json` file and add the following object
+crease a `secrets.json` file to your root directory and add the following object
 ```
 {
   GUILD_ID: [insert guild id here]
