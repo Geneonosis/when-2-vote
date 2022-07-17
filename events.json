@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "First Day to File for a Place on the General Election Ballot (Local Political Subdivisions Only)",
+      "date": "Saturday, July 23, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "First Day to File a Declaration of Write-in Candidacy (General Election for State and County Officers)",
+      "date": "Saturday, July 23, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to Order General Election or Special Election on a Measure",
+      "date": "Monday, August 22, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to File for a Place on the General Election Ballot (Local Political Subdivisions Only)",
+      "date": "Monday, August 22, 2022",
+      "notes": [
+        "ends at 5:00pm",
+        "2) Filing deadlines:  generally, the filing deadline is the 78th day prior to Election Day. The Code may provide a different special election filing deadline. See Section 201.054 of the Texas Election Code (the “Code”).  Write-in deadlines for general and special elections vary; the deadline for most local (city, school, other) special elections is now the same day as the filing deadline for application for a place on the ballot in a May election or November election."
+      ],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to File a Declaration of Write-in Candidacy (General Election for State and County Officers)",
+      "date": "Monday, August 22, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to File a Declaration of Write-in Candidacy (Local Political Subdivisions Only)",
+      "date": "Friday, August 26, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to Register to Vote",
+      "date": "Tuesday, October 11, 2022",
+      "notes": ["*First business day after Columbus Day"],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "First Day of Early Voting by Personal Appearance",
+      "date": "Monday, October 24, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day to Apply for Ballot by Mail (Received, not Postmarked)",
+      "date": "Friday, October 28, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last Day of Early Voting by Personal Appearance",
+      "date": "Friday, November 4, 2022",
+      "notes": [""],
+      "resources": []
+    },
+    {
+      "category": "Tuesday, November 8, 2022 - Uniform Election Date",
+      "categoryNote": "",
+      "description": "Last day to Receive Ballot by Mail",
+      "date": "Tuesday, November 8, 2022",
+      "notes": [
+        " (Election Day) at 7:00 p.m. if carrier envelope is not postmarked, OR Wednesday, November 9, 2022 (next business day after Election Day) at 5:00 p.m. if carrier envelope is postmarked by 7:00 p.m. at the location of the election on Election Day (unless overseas or military voter deadlines apply)",
+        "4)  Different deadlines apply to the last day to receive ballots sent by the following: 1) non-military and military voters who mailed ballots from overseas and submitted a regular state Application for Ballot By Mail (“ABBM”), 2) non-military voters who mailed ballots from overseas and who submitted a Federal Postcard Application (“FPCA”), and (3) military voters who mailed ballots domestically or from overseas and who submitted an FPCA. See Secs. 86.007, 101.001 and 101.057 of the Code. Please contact the Elections Division of the Office of the Texas Secretary of State at 1-800-252-VOTE (8683) for additional information."
+      ],
+      "resources": []
+    }
+  ]
+}

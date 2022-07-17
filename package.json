@@ -4,13 +4,16 @@
   "description": "texas voting listing dates",
   "main": "index.js",
   "scripts": {
-    "start": "npm run index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gene Tigner",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/builders": "^0.15.0",
     "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.2",
     "discord.js": "^13.8.1"
-  }
+  },
+  "type": "commonjs"
 }
