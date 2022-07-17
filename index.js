@@ -60,8 +60,8 @@ const commands = [
     .toJSON(),
 ];
 
-const clientID = "997931448361308191";
-const guildID = "900786308757209088";
+const clientID = data.CLIENT_ID;
+const guildID = data.GUILD_ID;
 
 const rest = new REST({ version: "9" }).setToken(data.TOKEN);
 
