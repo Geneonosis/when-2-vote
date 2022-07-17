@@ -1,7 +1,7 @@
 # when-2-vote
 discord bot to inform people when to vote in texas.
 
-# deploying this bot for yourself
+# setup files
 crease a `secrets.json` file and add the following object
 ```
 {
@@ -12,3 +12,7 @@ crease a `secrets.json` file and add the following object
 ```
 
 # ensure that the bot is given bot permission levels for sending and receiving messages
+
+# deployment
+run `npm install`
+then if you made the above file run `npm run start`
